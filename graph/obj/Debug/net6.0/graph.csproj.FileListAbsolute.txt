@@ -1,0 +1,15 @@
+C:\Users\Макс\source\repos\graph\graph\bin\Debug\net6.0\graph.exe
+C:\Users\Макс\source\repos\graph\graph\bin\Debug\net6.0\graph.deps.json
+C:\Users\Макс\source\repos\graph\graph\bin\Debug\net6.0\graph.runtimeconfig.json
+C:\Users\Макс\source\repos\graph\graph\bin\Debug\net6.0\graph.dll
+C:\Users\Макс\source\repos\graph\graph\bin\Debug\net6.0\graph.pdb
+C:\Users\Макс\source\repos\graph\graph\obj\Debug\net6.0\graph.csproj.AssemblyReference.cache
+C:\Users\Макс\source\repos\graph\graph\obj\Debug\net6.0\graph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Макс\source\repos\graph\graph\obj\Debug\net6.0\graph.AssemblyInfoInputs.cache
+C:\Users\Макс\source\repos\graph\graph\obj\Debug\net6.0\graph.AssemblyInfo.cs
+C:\Users\Макс\source\repos\graph\graph\obj\Debug\net6.0\graph.csproj.CoreCompileInputs.cache
+C:\Users\Макс\source\repos\graph\graph\obj\Debug\net6.0\graph.dll
+C:\Users\Макс\source\repos\graph\graph\obj\Debug\net6.0\refint\graph.dll
+C:\Users\Макс\source\repos\graph\graph\obj\Debug\net6.0\graph.pdb
+C:\Users\Макс\source\repos\graph\graph\obj\Debug\net6.0\graph.genruntimeconfig.cache
+C:\Users\Макс\source\repos\graph\graph\obj\Debug\net6.0\ref\graph.dll
